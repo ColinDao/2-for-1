@@ -1,7 +1,3 @@
----------------------------------VIEWS---------------------------------
-
-
-
 -- Create a view to display all the dates and prices
 CREATE VIEW food_prices AS
     SELECT "year", "month", "item", "price" FROM "prices"

@@ -1,7 +1,3 @@
----------------------------------TABLES---------------------------------
-
-
-
 -- Import food-prices-nz.csv into a temporary table
 .import --csv food-prices-nz.csv temp
 

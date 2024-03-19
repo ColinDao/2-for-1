@@ -1,7 +1,3 @@
----------------------------------INDEXES---------------------------------
-
-
-
 -- Create an index for fast lookup based on a given name
 CREATE INDEX item_index ON "items" ("item");
 
