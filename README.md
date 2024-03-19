@@ -12,7 +12,7 @@ The project includes SQLite scripts for creating tables, views, indexes, and sam
 - [Tables](#tables)
 - [Indexes](#indexes)
 - [Views](#views)
-- [Sample Queries](#sample_queries)
+- [Sample Queries](#sample-queries)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
