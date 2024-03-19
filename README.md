@@ -12,6 +12,7 @@ The project includes SQLite scripts for creating tables, views, indexes, and sam
 - [Tables](#tables)
 - [Indexes](#indexes)
 - [Views](#views)
+- [Sample Queries](#sample_queries)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
@@ -33,7 +34,7 @@ Indexes are created for fast lookup based on specific attributes to optimize que
 2. **year_index**: Index for fast lookup based on the year.
 3. **price_index**: Composite index for fast lookup based on date, item, and price.
 
-**Views**
+## Views
 Several views are defined to facilitate data analysis and reporting:
 
 1. **food_prices**: Displays all the dates and prices for the logged items.
