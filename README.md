@@ -95,7 +95,7 @@ To execute the sample queries, run the following command:
 sqlite3 food-prices.db < queries.sql
 ```
 
-Refer to the comments in each of the documents to see what each view, index, and query does.
+Refer to the above sections to see what each view, index, and query does.
 
 ## Features
 
