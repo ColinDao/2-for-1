@@ -100,8 +100,7 @@ Refer to the above sections to see what each view, index, and query does.
 
 ## Features
 
-**Data Collection**: Gather price data for 150 distinct food items from various New Zealand supermarkets, spanning 17 years. 
-Collect data points regularly to maintain an up-to-date and comprehensive dataset. <br />
+**Data Collection**: Gather price data for 150 distinct food items from various New Zealand supermarkets, spanning 17 years. <br />
 <br />
 **Database Schema**: Design a well-structured SQLite database schema to organize and store the collected price data efficiently. 
 Define tables for food items, prices, and dates.<br />
