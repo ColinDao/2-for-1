@@ -110,13 +110,13 @@ fluctuations over time. Utilize SQLite queries and statistical analysis techniqu
 <br />
 **Data Retrieval**: Create SQLite indexes and views in order to optimize data retrieval for complex queries.
 
-## Credit
-
-This project was completed as a part of [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2024/). Go check them out!
-
 ## Technologies
 **Database Management System**: SQLite <br />
 **Datasets**: (Presumably) archived "New Zealand Food Prices" dataset from [New Zealand Government Stats](https://www.stats.govt.nz/large-datasets/csv-files-for-download/)
+
+## Credit
+
+This project was completed as a part of [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2024/). Go check them out!
 
 ## License
 
