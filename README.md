@@ -99,7 +99,7 @@ Refer to the comments in each of the documents to see what each view, index, and
 
 ## Features
 
-**Data Collection**: Gather price data for 150 distinct food items from various New Zealand supermarkets, spanning a period of 17 years. 
+**Data Collection**: Gather price data for 150 distinct food items from various New Zealand supermarkets, spanning 17 years. 
 Collect data points regularly to maintain an up-to-date and comprehensive dataset. <br />
 <br />
 **Database Schema**: Design a well-structured SQLite database schema to organize and store the collected price data efficiently. 
@@ -108,7 +108,7 @@ Define tables for food items, prices, and dates.<br />
 **Data Analysis**: Perform exploratory data analysis (EDA) on the database to uncover trends, patterns, and insights into food price 
 fluctuations over time. Utilize SQLite queries and statistical analysis techniques to derive meaningful conclusions from the data.<br />
 <br />
-**Data Retrival**: Create SQLite indexes and views in order to optimize data retrieval for complex queries.
+**Data Retrieval**: Create SQLite indexes and views in order to optimize data retrieval for complex queries.
 
 ## Credit
 
@@ -116,7 +116,7 @@ This project was completed as a part of [CS50's Introduction to Databases with S
 
 ## Technologies
 **Database Management System**: SQLite <br />
-**Datasets**: (Presumably) archived "New Zealand Food Prices" dataset from [Newzealand Government Stats](https://www.stats.govt.nz/large-datasets/csv-files-for-download/)
+**Datasets**: (Presumably) archived "New Zealand Food Prices" dataset from [New Zealand Government Stats](https://www.stats.govt.nz/large-datasets/csv-files-for-download/)
 
 ## License
 
