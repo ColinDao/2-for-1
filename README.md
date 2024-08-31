@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project entails the creation of a SQLite database documenting the prices of 150 different food items from a New Zealand 
+This project entails the creation of a SQLite database documenting the prices of 150+ different food items from a New Zealand 
 supermarket over a span of 17 years, comprising approximately 30,000 data points. The database serves as a comprehensive 
 repository for historical food price data, facilitating analysis and insights into food pricing trends, inflation rates, and consumer purchasing patterns.
 The project includes SQLite scripts for creating tables, views, indexes, and sample queries for data analysis.
